@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "根因分析(RCA)：NFS Shared Mount 架构下触发 Kubelet NodeUnstageVolume 拦截的底层机制"
-subtitle: "问题看起来在 CSI，结果锅一路甩到了 NFS 内核实现"
+subtitle: "问题看起来在 CSI，结果锅甩到了 NFS 内核实现"
 date: 2026-03-11 15:45:00 +0800
 author: "Poke"
 header-img: "img/post-bg-unix-linux.jpg"
